@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.linkedin.com/in/amantha-jayathilake-68a959205/)
 <h1 align="center">Hi 👋, I'm Amantha Jayathilake</h1>
 <h3 align="center">As an undergraduate student of SLIIT, I am an ambitious and energetic person who always seek for new adventures, experiences and like to face new challenges. I am responsible for every task that I undertake. With my excellent leadership skills and communication skills, I can take my team to the ultimate target. A passionate Full-Stack developer.</h3>
-<img align="right" alt="coding" width="400" src="https://images.search.yahoo.com/images/view;_ylt=AwrheksHTe5h.l0nzGOJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2VhM2M5ODdlOTQ1M2VkODc0MWQ4NzY0MWY0OThmZmM0BGdwb3MDMTMEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26type%3DE211US885G91649%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D13&w=400&h=300&imgurl=cdn.dribbble.com%2Fusers%2F31818%2Fscreenshots%2F2091618%2Fdribbb.gif&rurl=https%3A%2F%2Fdribbble.com%2Fshots%2F2091618-Binary-Code-on-a-Computer-Screen&size=2545.0KB&p=animated+coding+gif&oid=ea3c987e9453ed8741d87641f498ffc4&fr2=piv-web&fr=mcafee&tt=Binary+Code+on+a+Computer+Screen+by+Matthew+Butler+on+Dribbble&b=0&ni=21&no=13&ts=&tab=organic&sigr=pc7cUmbInLX.&sigb=BYeiScTQgZ76&sigi=vZOcccQAovPM&sigt=sYW85GHR1O7n&.crumb=Fteek6kflaQ&fr=mcafee&fr2=piv-web&type=E211US885G91649">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanthajayathilake&label=Profile%20views&color=0e75b6&style=flat" alt="amanthajayathilake" /> </p>
 
