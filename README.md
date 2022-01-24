@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.linkedin.com/in/amantha-jayathilake-68a959205/)
+[![MasterHead](https://res.cloudinary.com/fitness-glory/image/upload/v1643039611/giphy_4_pfojfu.gif)](https://www.linkedin.com/in/amantha-jayathilake-68a959205/)
 <h1 align="center">Hi 👋, I'm Amantha Jayathilake</h1>
 <h3 align="center">As an undergraduate student of SLIIT, I am an ambitious and energetic person who always seek for new adventures, experiences and like to face new challenges. I am responsible for every task that I undertake. With my excellent leadership skills and communication skills, I can take my team to the ultimate target. A passionate Full-Stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/fitness-glory/image/upload/v1643039611/giphy_4_pfojfu.gif">
