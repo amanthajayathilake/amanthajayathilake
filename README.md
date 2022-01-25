@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanthaj1" target="blank"><img src="https://img.shields.io/twitter/follow/amanthaj1?logo=twitter&style=for-the-badge" alt="amanthaj1" /></a> </p>
 
-- 🔭 I’m currently working on [YellowHeart](yh.io)
+- 🔭 I’m currently working on [YellowHeart](http://yh.io)
 
 - 🌱 I’m currently learning **Blockchain Development, MERN**
 
