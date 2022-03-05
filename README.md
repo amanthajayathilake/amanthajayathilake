@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 [![MasterHead]()](https://www.linkedin.com/in/amantha-jayathilake-68a959205/) -->
 <h1 align="center">Hi 👋, I'm Amantha Jayathilake</h1>
-<h3 align="center">As an undergraduate student of SLIIT, I am an ambitious and energetic person who always seek for new adventures, experiences and like to face new challenges. I am responsible for every task that I undertake. With my excellent leadership skills and communication skills, I can take my team to the ultimate target. A passionate Full-Stack developer.</h3>
+<h3 align="center">Diligent software engineer with a strong foundation in developing and is well-versed in technology. Proficient in a variety of programming languages, tools and platforms, with enthusiasm to learn and master new technologies. Well experienced in best practices with proven ability to collaborate and contribute in teams with varying size and scope. Well-focused and ability to learn and adapt quickly, while ensuring that all tasks assigned are completed on time. Willing to enhance my knowledge and gain experiences through this opportunity.</h3>
 <img align="center" alt="coding" width="400" src="https://res.cloudinary.com/fitness-glory/image/upload/v1643039611/giphy_4_pfojfu.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanthajayathilake&label=Profile%20views&color=0e75b6&style=flat" alt="amanthajayathilake" /> </p>
