@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanthaj1" target="blank"><img src="https://img.shields.io/twitter/follow/amanthaj1?logo=twitter&style=for-the-badge" alt="amanthaj1" /></a> </p>
 
-- 🔭 I’m currently working on [YellowHeart](http://yh.io)
+- 🔭 I’m currently working on [Hexaware Technologies](https://hexaware.com)
 
 - 🌱 I’m currently learning **Blockchain Development, MERN**
 
@@ -18,11 +18,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amanthajayathilake?tab=repositories](https://github.com/amanthajayathilake?tab=repositories)
 
-- 💬 Ask me about **React, Redux, NextJS**
+- 💬 Ask me about **NodeJS, NestJS, ExpressJS, SQL, ReactJS, Redux, NextJS, Azure, AWS**
 
 - 📫 How to reach me **amanthajayathilake@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aQUvq8Fd7zDXobai_WXo24Z0bVHULeOy/view?usp=sharing](https://drive.google.com/file/d/1aQUvq8Fd7zDXobai_WXo24Z0bVHULeOy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
